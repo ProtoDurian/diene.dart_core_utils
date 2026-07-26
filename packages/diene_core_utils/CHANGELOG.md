@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/AtomiCloud/diene.dart_core_utils/compare/v1.0.0...v1.0.1) (2026-07-26)
+
+
+### 🐛 Bug Fixes 🐛
+
+* **diene_core_utils:** format the generated changelog ([98e3701](https://github.com/AtomiCloud/diene.dart_core_utils/commit/98e37018245159ea480e07e97f251e1339844434))
+* **diene_core_utils:** use dash bullets in the generated changelog ([c8d7fe2](https://github.com/AtomiCloud/diene.dart_core_utils/commit/c8d7fe298b0cf185e7297215eb5091c9224f8e65))
+
 ## 1.0.0 (2026-07-26)
 
 ### ✨ Features ✨
